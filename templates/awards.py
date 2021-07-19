@@ -3,7 +3,7 @@ HEADER = (
 %-------------------------------------------------------------------------------
 %	SECTION TITLE
 %-------------------------------------------------------------------------------
-\cvsection{Public Output}
+\cvsection{Honors \& Awards}
 """)
 
 SUB_HEADER = (
@@ -25,7 +25,7 @@ TEMPLATE = (
     %---------------------------------------------------------
     \cvhonor
         {{{title}}} % Title
-        {{{status}}} % Status
+        {{{amount}}} % Amount
         {{{location}}} % Location
         {{{date}}} % Date(s)"""
 )

@@ -13,6 +13,7 @@ sections = {
     "education" : 5,
     "experience": 7,
     "output": 3,
+    "awards" : 10,
 }
 
 

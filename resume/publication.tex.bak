@@ -1,0 +1,46 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Publication}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {\textbf{Eaton, K.}} % Role
+    {Journal of Open Source Software} % Title
+    {Academic Journal} % Location
+    {Feb. 2020} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {NCBImeta: efficient and comprehensive metadata retrieval from NCBI databases}
+      \end{cvitems}
+    }
+    
+  \cventry
+    {Willmott, H., Townend, P., Swales, D., Poinar, H., \textbf{Eaton, K.}, Klunk, J.} % Role
+    {Antiquity} % Title
+    {Academic Journal} % Location
+    {Feb. 2020} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {A Black Death mass grave at Thornton Abbey, Lincolnshire: the discovery and examination of a 14th-century \\ rural catastrophe.}
+      \end{cvitems}
+    }
+  \cventry
+    {Klunk, J., Duggan, A. T., Redfern, R., Gamble, J., Boldsen, J. L., Golding, G. B., Walter, B. S., \textbf{Eaton, K.}, Stangroom, J., Rouillard, J., Devault, A., DeWitte, S. N., Poinar, H. N.} % Role
+    {American Journal of Physical Anthropology} % Title
+    {Academic Journal} % Location
+    {Apr. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Genetic resiliency and the Black Death: No apparent loss of mitogenomic diversity due to the Black Death \\ in medieval London and Denmark.}
+      \end{cvitems}
+    }    
+
+%---------------------------------------------------------
+\end{cventries}

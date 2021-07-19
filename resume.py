@@ -14,6 +14,7 @@ sections = {
     "experience": 7,
     "output": 3,
     "awards" : 10,
+    "service" : 10,
 }
 
 

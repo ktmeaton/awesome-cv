@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.25)  19 JUL 2021 14:31
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.25)  19 JUL 2021 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -973,20 +973,21 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 24.
-) (./resume/awards.tex) [2]
+) (./resume/awards.tex) (./resume/service.tex) [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
- (build/resume.aux)
+
+(build/resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 107.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 31878 strings out of 479819
- 627869 string characters out of 5895846
+ 31882 strings out of 479819
+ 627932 string characters out of 5895846
  1063864 words of memory out of 5000000
- 48458 multiletter control sequences out of 15000+600000
+ 48459 multiletter control sequences out of 15000+600000
  535030 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,12n,109p,797b,433s stack positions out of 5000i,500n,10000p,200000b,80000s

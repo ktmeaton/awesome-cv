@@ -24,14 +24,14 @@ TEMPLATE = (
 """
 %---------------------------------------------------------
 \cventry
-    {degree} % Degree
-    {institution} % Institution
-    {location} % Location
-    {start} - {end} % Date(s)
+    {{{degree}}} % Degree
+    {{{institution}}} % Institution
+    {{{location}}} % Location
+    {{{start} - {end}}} % Date(s)
     {{
-    \\begin{{cvitems}} % Description(s) bullet points
-        \item {thesis}
-        \item {advisor}
-    \end{{cvitems}}
-    ]"""
+        \\begin{{cvitems}} % Description(s) bullet points
+            \item {{{thesis}}}
+            \item {{{advisor}}}
+        \end{{cvitems}}
+    }}"""
 )

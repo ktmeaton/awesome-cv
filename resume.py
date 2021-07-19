@@ -9,7 +9,8 @@ metadata_dir = os.path.join(cwd, "metadata")
 template_dir = os.path.join(cwd, "templates")
 
 sections = [
-    "education"
+    "summary",
+    "education",
 ]
 
 
@@ -30,9 +31,7 @@ for section in sections:
     with open(out_path, "w") as outfile:
         outfile.write(template.HEADER + "\n")
         for entry in metadata:
-            print(entry)
             data_dict = {column:value for column,value in zip(header, entry)}
-            print(data_dict)
             entry_tex = template.TEMPLATE.format(**data_dict)
             outfile.write(entry_tex + "\n")    
         outfile.write(template.FOOTER + "\n")
